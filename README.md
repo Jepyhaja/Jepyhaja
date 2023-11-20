@@ -1,4 +1,4 @@
-## I am a web developer at Trimedia Oy since late 2019
+## I am a web developer at Trimedia Oy since 2019
 ### What do I do?
 - Various [Laravel](https://laravel.com/) projects at Trimedia
 - JavaScript apps with [Vue](https://vuejs.org/), [React](https://reactjs.org/) and [Alpine](https://alpinejs.dev/)
