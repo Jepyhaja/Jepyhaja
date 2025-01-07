@@ -4,4 +4,4 @@
 - JavaScript apps with [Vue](https://vuejs.org/), [React](https://reactjs.org/) and [Alpine](https://alpinejs.dev/)
 - Customized Laravel CMS with [Statamic](https://www.statamic.com)
 - [Mysql](https://www.mysql.com/) database design.
-- My own [Laravel](https://laravel.com/) project when ever I have time to spare
+- My own [Laravel](https://laravel.com/) projects when ever I have time to spare
